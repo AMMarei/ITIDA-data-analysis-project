@@ -5,6 +5,6 @@ I chose a dataset that has information from 100k medical appoitnments in Brazil,
 
 I posed 7 questions at the start of the analysis, and then analysed the dataset from multiple angles to come up with answers.
 
-The full analysis and code are available as a Jupyter Notebook inside the file Project.ipynb, GitHub doesn't render HTML links correctly though, so you wouldn't be able to use links to different sections of the notebook if you view it here.
+The full analysis and code are available as a Jupyter Notebook inside the file "Project.ipynb", GitHub doesn't render HTML links correctly though, so you wouldn't be able to use links to different sections of the notebook if you view it here.
 
 Alternatively, you can view it on the link: https://nbviewer.org/github/AMMarei/ITIDA-data-analysis-project/blob/main/Project.ipynb, where links render correctly.
