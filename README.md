@@ -5,4 +5,4 @@ I chose a dataset that has information from 100k medical appoitnments in Brazil,
 
 I posed 7 questions at the start of the analysis, and then the dataset has been analysed from multiple angles to come up with answers.
 
-The full analysis and code are available in 2 formats: .ipynb (Jupyter Notebook), and .html (HTML). Please refer to the files Project.ipynb & Project.html.
+The full analysis and code are available as a Jupyter Notebook, please refer to the file Project.ipynb.
